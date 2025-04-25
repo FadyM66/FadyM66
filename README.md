@@ -2,17 +2,17 @@
 
 ###
 
-<p align="center">Full-Stack Web Developer</p>
+<h3 align="center">Full-Stack Web Developer</h3>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
-<p align="left">✨ Currently working web projects.<br>📚 I'm currently learning new web techs and architectures.<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about python, JS.<br>📫 How to reach me fadymohsen62@gmail.com</p>
+<h4 align="left">✨ Currently working web projects.<br>📚 I'm currently learning new web techs and architectures.<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about python, JS.<br>📫 How to reach me fadymohsen62@gmail.com</h4>
 
 ###
 
