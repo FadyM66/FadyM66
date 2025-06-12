@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">✨ Currently working web projects.<br>📚 I'm currently learning new web techs and architectures.<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about python, JS.<br>📫 How to reach me fadymohsen62@gmail.com</h4>
+<h4 align="left">✨ Currently working web projects.<br>📚 I'm currently learning new web techs and architectures.<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about web development, python and Js<br>📫 How to reach me fadymohsen62@gmail.com</h4>
 
 ###
 
