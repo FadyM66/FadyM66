@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fady Mohsen</h1>
 <h3 align="center">A Full Stack Developer</h3>
+<!--🖼️RICK-->
+<p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
 <br clear="both">
