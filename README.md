@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fady Mohsen</h1>
+<p align="center">
+  <strong>Hi 👋, I’m Fady Mohsen</strong>
+</p>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
