@@ -1,5 +1,5 @@
 <table width="100%">
-  <tr>
+  <tr width="100%" border="none">
     <td align="left">
       <strong>Hi 👋, I’m Fady Mohsen</strong>
     </td>
