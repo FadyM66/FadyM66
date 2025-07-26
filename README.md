@@ -1,13 +1,6 @@
-<table width="100%">
-  <tr width="100%" border="none">
-    <td align="left">
-      <strong>Hi 👋, I’m Fady Mohsen</strong>
-    </td>
-    <td align="right">
-      <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
-    </td>
-  </tr>
-</table>
+<p align="center">
+<strong>Hi 👋, I’m Fady Mohsen</strong>
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
 <h3 align="center">A Full Stack Developer</h3>
 <!--🖼️RICK-->
