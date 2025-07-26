@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fady Mohsen</h1>
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="center">A Full Stack Developer</h3>
 <!--🖼️RICK-->
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
-<br clear="both">
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h4 align="left">✨ Currently working web projects.<br>📚 I'm currently learning new web techs and architectures.<br>👯 I’m looking to collaborate on open source projects<br>💬 Ask me about web development, python and Js<br>📫 How to reach me fadymohsen62@gmail.com</h4>
 
