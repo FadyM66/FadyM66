@@ -1,11 +1,5 @@
-<h1 align="center">Hi, I'm Fady Mohsen 👋</h1>
-
-###
-
-<h3 align="center">Full-Stack Web Developer</h3>
-
-###
-
+<h1 align="center">Hi 👋, I'm Fady Mohsen</h1>
+<h3 align="center">A Full Stack Developer</h3>
 <br clear="both">
 
 <h1 align="left">About me</h1>
