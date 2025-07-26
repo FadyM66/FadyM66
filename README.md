@@ -1,8 +1,13 @@
-<p align="center">
-  <strong>Hi 👋, I’m Fady Mohsen</strong>
-</p>
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>Hi 👋, I’m Fady Mohsen</strong>
+    </td>
+    <td align="right">
+      <img src="https://i.imgur.com/dBaSKWF.gif" height="20">
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">A Full Stack Developer</h3>
 <!--🖼️RICK-->
