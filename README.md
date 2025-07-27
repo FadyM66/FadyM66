@@ -1,8 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Fady Mohsen and I'm a software developer. You can find me on [![LinkedIn][3.2]][3].
-
-
+My name is Fady Mohsen and I'm a software developer. 
 
 
 ## 🔧 Technologies & Tools
