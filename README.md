@@ -1,6 +1,6 @@
 
 
-<p style="font-size:60px;margin-bottom:0px" align="center"><strong>Hello, Geeks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></strong></p>
+<p style="font-size:'60px';margin-bottom:0px" align="center"><strong>Hello, Geeks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></strong></p>
 <p align="center" style="margin-bottom:20px">
 My name is <strong>Fady Mohsen </strong> and I'm a software developer👨🏻‍💻
 </p>
