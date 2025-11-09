@@ -11,8 +11,8 @@ My name is <strong>Fady Mohsen </strong> and I'm a software developer👨🏻‍
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### A little bit about me 😎
-* 🔭 I’m currently working on a <strong>load balancer for an eCommerce platform</strong>
-* 🌱 I’m currently learning <strong>cloud computing and cloud architecture</strong>
+* 🔭 I’m currently working on a <strong>side projects</strong>
+* 🌱 I’m currently learning <strong>cloud</strong>
 * 🤝 I’m looking to collaborate on <strong>open-source projects and any crazy software ideas</strong>. Just contact me and let’s build something crazy
 * 💬 Ask me about <strong>software applications</strong>
 * 📫 How to reach me:  <strong>Connect via [LinkedIn](https://linkedin.com/in/fadymohsen1) or [GitHub](https://github.com/fadym66). Portfolio coming soon.</strong>
