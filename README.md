@@ -15,7 +15,7 @@ My name is <strong>Fady Mohsen </strong> and I'm a software developer👨🏻‍
 * 🌱 I’m currently learning <strong>cloud</strong>
 * 🤝 I’m looking to collaborate on <strong>open-source projects and any crazy software ideas</strong>. Just contact me and let’s build something crazy
 * 💬 Ask me about <strong>software applications</strong>
-* 📫 How to reach me:  <strong>Connect via [my email](fadymohsen62@gmail.com). Portfolio coming soon.</strong>
+* 📫 How to reach me:  <strong>Connect via fadymohsen62@gmail.com. Portfolio coming soon.</strong>
 * ❤️  I love discussions about <strong>software, software architecture, system design, economics, and business</strong>
 
 
