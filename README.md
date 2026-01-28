@@ -2,7 +2,7 @@
 
 <p style="font-size:'60px';margin-bottom:0px" align="center"><strong>Hello, Geeks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></strong></p>
 <p align="center" style="margin-bottom:20px">
-My name is <strong>Fady Mohsen </strong> and I'm a software developer👨🏻‍💻
+My name is <strong>Fady Mohsen </strong> and I'm a Full stack engineer👨🏻‍💻
 </p>
 <!-- - 📫 How to reach me: [fadymohsen62@gmail.com](mailto:fadymohsen62@gmail.com); -->
 <!-- - 🔗 My website: [https://www.xxx.com/](https://www.xxx.com/) -->
@@ -13,7 +13,7 @@ My name is <strong>Fady Mohsen </strong> and I'm a software developer👨🏻‍
 ### A little bit about me 😎
 * 🔭 I’m currently working on a <strong>side projects</strong>
 * 🌱 I’m currently learning <strong>cloud</strong>
-* 🤝 I’m looking to collaborate on <strong>open-source projects and any crazy software ideas</strong>. Just contact me and let’s build something crazy
+* 🤝 I’m looking to collaborate on <strong>open-source projects and any software ideas</strong>. Just contact me and let’s build something
 * 💬 Ask me about <strong>software applications</strong>
 * 📫 How to reach me:  <strong>Connect via fadymohsen62@gmail.com. Portfolio coming soon.</strong>
 * ❤️  I love discussions about <strong>software, software architecture, system design, economics, and business</strong>
