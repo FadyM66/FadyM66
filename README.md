@@ -10,10 +10,10 @@ My name is <strong>Fady Mohsen </strong> and I'm a Full stack engineer👨🏻�
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### A little bit about me 😎
+### A little bit about me 
 * 🔭 I’m currently working on a <strong>side projects</strong>
 * 🌱 I’m currently learning <strong>cloud</strong>
-* 🤝 I’m looking to collaborate on <strong>open-source projects and any software ideas</strong>. Just contact me and let’s build something
+* 🤝 I’m looking to collaborate on <strong>open-source projects and any impactful software ideas</strong>. Just contact me and let’s build something
 * 💬 Ask me about <strong>software applications</strong>
 * 📫 How to reach me:  <strong>Connect via fadymohsen62@gmail.com. Portfolio coming soon.</strong>
 * ❤️  I love discussions about <strong>software, software architecture, system design, economics, and business</strong>
